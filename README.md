@@ -1,6 +1,6 @@
-# How to pass item data to as command parameter to ItemTapped command
+# How to pass the item data as command parameter in ItemTapped command
 
-This example demonstrates how to pass itemdata alone to viewmodel instead eventargs using tap command in listview.
+This example demonstrates how to pass the itemdata alone in viewmodel instead eventargs using tap command in listview.
 
 ## Requirements to run the demo
 
