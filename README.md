@@ -2,6 +2,8 @@
 
 This example demonstrates how to pass the itemdata alone in viewmodel instead eventargs using tap command in listview.
 
+See [How to pass the item data as command parameter in ItemTapped command](https://www.syncfusion.com/kb/9318/how-to-pass-the-item-data-as-command-parameter-in-itemtapped-command) for more details.
+
 ## Requirements to run the demo
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
